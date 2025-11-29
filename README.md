@@ -33,7 +33,7 @@ This project is conducting a preliminary data analysis (EDA) of more than 99,000
    jupyter notebook
    ```
 
-4. **Open:
+4. **Open**:
    ```bash
    911_calls_analysis.ipynb
    ```
